@@ -5,7 +5,7 @@ Es un simple programa en python para chatear mediante la terminal con chatgpt, t
 ## Instalacion
 
 ```
-git clone 
+git clone https://github.com/phrantom/chatGTP 
 cd chatgpt
 pip3 install -r requirements.txt
 ```
